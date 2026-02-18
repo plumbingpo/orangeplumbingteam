@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://orangeplumbingteam.com/sitemap.xml
